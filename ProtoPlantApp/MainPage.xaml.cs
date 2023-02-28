@@ -1,4 +1,5 @@
-﻿namespace ProtoPlantApp;
+﻿using ProtoPlantApp.ViewModels;
+namespace ProtoPlantApp;
 
 public partial class MainPage : ContentPage
 {
@@ -7,6 +8,7 @@ public partial class MainPage : ContentPage
 	public MainPage()
 	{
 		InitializeComponent();
+		BindingContext = new MyPlantsViewModel();
 	}
 
 	private void OnCounterClicked(object sender, EventArgs e)

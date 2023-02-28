@@ -137,6 +137,10 @@
               "target": "Package",
               "version": "[1.7.0.1, )",
               "autoReferenced": true
+            },
+            "Xamarin.HotReload": {
+              "target": "Package",
+              "version": "[2.0.16, )"
             }
           },
           "imports": [
@@ -204,6 +208,10 @@
               "target": "Package",
               "version": "[7.0.59, )",
               "autoReferenced": true
+            },
+            "Xamarin.HotReload": {
+              "target": "Package",
+              "version": "[2.0.16, )"
             }
           },
           "imports": [
@@ -271,6 +279,10 @@
               "target": "Package",
               "version": "[7.0.59, )",
               "autoReferenced": true
+            },
+            "Xamarin.HotReload": {
+              "target": "Package",
+              "version": "[2.0.16, )"
             }
           },
           "imports": [

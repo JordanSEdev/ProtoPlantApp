@@ -12,6 +12,18 @@
 		<data>
 		XeNJCWAjipe3f59TxQGWtSCBAQI=
 		</data>
+		<key>Resources/Fonts/Roboto-Bold.ttf</key>
+		<data>
+		YkQqGKn+lFfBr+q/aD0mOmkbd5g=
+		</data>
+		<key>Resources/Fonts/Roboto-Regular.ttf</key>
+		<data>
+		VsXA04veTB8VSd2kPbN7CcYIqtM=
+		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		keAf4g1EpTxfA90nvczfcHgsYzY=
+		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
 		oowkf1sL6T19nanXUObgmuayWqM=
@@ -43,6 +55,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/CommunityToolkit.Mvvm.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZdC70jHEKi0+I0r1FTTj/23Iyvsb7SVj3Y78fa45r8o=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -194,14 +213,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yverqqqmbd7EjEXWcJfc0f8N8Dz+0/fH0qO7voltZAM=
+			66phb+8/bSj06yYXh/aCQm13v2p0ZD4pX0gvvJo5BLk=
 			</data>
 		</dict>
 		<key>MonoBundle/ProtoPlantApp.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISYw7P8e/uHydw5tdRH7p9SBYWlDCYrjhsJVy4/e55E=
+			cRrJLQXucKI7uvPaCpNwl1TfcbRacVcVkDHpwlAbp/U=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1420,6 +1439,27 @@
 			<key>hash2</key>
 			<data>
 			jxdtgqkMJEyuNwZZSFxELD/Kt3Zu2RhwpGEO2sOawo4=
+			</data>
+		</dict>
+		<key>Resources/Fonts/Roboto-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7GhaRhBSlv5GyHRNpKEc+BGLpsEScZQXZvelRt9qp8c=
+			</data>
+		</dict>
+		<key>Resources/Fonts/Roboto-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ThR6tkuf322J0B9rjDygs83cWdYIqOIhj5olBLXJjhQ=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tb/3x7baGCAU6ljR4f2xRbkz5iymNz8wOMo17AXbyLE=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>

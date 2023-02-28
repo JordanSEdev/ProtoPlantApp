@@ -257,3 +257,4 @@
 /Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ProtoPlantApp.pdb
 /Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ProtoPlantApp.genruntimeconfig.cache
 /Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ref/ProtoPlantApp.dll
+/Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/CommunityToolkit.Mvvm.dll

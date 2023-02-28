@@ -1,4 +1,5 @@
 /Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../ProtoPlantApp.app/Contents/MonoBundle/icudt.dat
+/Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../ProtoPlantApp.app/Contents/MonoBundle/CommunityToolkit.Mvvm.dll
 /Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../ProtoPlantApp.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../ProtoPlantApp.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/jordangilbert/Projects/ProtoPlantApp/ProtoPlantApp/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/publish/../ProtoPlantApp.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll
